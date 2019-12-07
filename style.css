@@ -32,12 +32,11 @@ hr.line {
     width: 960px;
 }
 #picture{
-    height: 200px;
-    width: 200px;
-    float: left;
+    height: 100px;
+    width: 100px;
 }
-#picturewrap{
-    float: left;
+#wrap{
+    float: right;
     margin: 5px;
     color: #777777;
     font-size: medium;
