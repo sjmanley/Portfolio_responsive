@@ -4,21 +4,7 @@ body {
     background-image: url(images/criss-cross.png);
     background-color: #ffffff;
 }
-nav {
-    width: 100%;
-}
-.navbar-brand{
-    color: white;
-    width: 20%;
-    background-color: #4AAAA5;
-    font-family: Georgia, ‘Times New Roman’, Times, serif;
-    padding: 0;
-    height: 70px;
-    margin: 0px 0px 0px 288px;
-    vertical-align: middle;
-    clear: left;
-    float: left;
-}
+
 hr.line {
     border-color: black;
     border-bottom: 100px;
@@ -31,22 +17,7 @@ hr.line {
     height: auto;
     width: 960px;
 }
-#picture{
-    height: 100px;
-    width: 100px;
-}
-#wrap{
-    float: right;
-    margin: 5px;
-    color: #777777;
-    font-size: medium;
-}
-.nav-item{
-    float: right;
-}
-p{
-    float: right;
-}
+
 footer {
     border-top: 8px solid #4AAAA5;
     position: fixed;
@@ -56,4 +27,14 @@ footer {
     height: 50px;
     text-align: center;
     background: #777777;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   border-top: 8px solid #4AAAA5;
+   background-color:#777777;
+   color: white;
+   text-align: center;
 }
