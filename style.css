@@ -4,6 +4,13 @@ body {
     background-image: url(images/criss-cross.png);
     background-color: #ffffff;
 }
+.name {
+    background-color: #4AAAA5;
+}
+
+#myName{
+    color: white;
+}
 
 hr.line {
     border-color: black;
