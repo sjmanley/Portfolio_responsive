@@ -4,6 +4,9 @@ body {
     background-image: url(images/criss-cross.png);
     background-color: #ffffff;
 }
+.nav-link{
+    color: #777777;
+}
 .name {
     background-color: #4AAAA5;
     padding: 20px;
@@ -12,6 +15,10 @@ body {
 #myName{
     color: white;
     padding: 0px 0px 0px 10px;
+}
+.TextWrap{
+    float: left;
+    margin: 10px;
 }
 #textbox{
     background-color: #ffffff;
