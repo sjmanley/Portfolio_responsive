@@ -1,5 +1,5 @@
 # responsive
- <strong> Responsive Portfolio <br>
+Responsive Portfolio <br>
 This is my Responsive portfolio.
 Created to be viewable on many size devices. <br>
 Added more content and coding on Saturday. <br>
