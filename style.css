@@ -1,17 +1,29 @@
 body {
-    width: 960px;
+    max-width: 960px;
     margin: auto;
     background-image: url(images/criss-cross.png);
     background-color: #ffffff;
 }
 .name {
     background-color: #4AAAA5;
+    padding: 20px;
 }
 
 #myName{
     color: white;
+    padding: 0px 0px 0px 10px;
 }
-
+#textbox{
+    background-color: #ffffff;
+    text-align: center;
+}
+#img-fluid{
+    height: 250px;
+    width: 250px;
+}
+h3{
+    color: #4AAAA5;
+}
 hr.line {
     border-color: black;
     border-bottom: 100px;
@@ -19,10 +31,10 @@ hr.line {
 .whitebox {
     background-color: white;
     overflow: auto;
-    margin: 20px auto;
+    margin: 40px;
     padding: 20px;
     height: auto;
-    width: 960px;
+    max-width: 960px;
 }
 
 footer {
