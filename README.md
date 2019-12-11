@@ -1,4 +1,4 @@
-# responsive
+# Responsive
 Responsive Portfolio <br>
 This is my Responsive portfolio.
 Created to be viewable on many size devices. <br>
