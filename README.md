@@ -1,7 +1,7 @@
 # responsive
 Responsive Portfolio <br>
 This is my Responsive portfolio.
-To be created to view on many size devices. <br>
+To be created viewable on many size devices. <br>
 Added more content and coding on Saturday. <br>
 More work on a Sunday. Adding content to all pages through Bootstrap. <br>
 After a tutor session Sunday night (12062019) <br>
