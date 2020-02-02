@@ -1,5 +1,5 @@
 # Portfoilo - Responsive
-https://sjmanley.github.io/responsive/
+https://sjmanley.github.io/Portfolio_responsive/
 <br>
 <br>
 This is a Responsive portfolio created to be viewable on many size devices. <br>
